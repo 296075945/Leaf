@@ -12,3 +12,8 @@
 target/
 logs/
 log/
+
+#eclipse
+.settings/
+.classpath
+.project
